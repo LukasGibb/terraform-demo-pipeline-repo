@@ -1,6 +1,6 @@
-# Test Python script for project_name
-# Author: author_name
-# Project URL name: project_urlname
-# Description: project_description
+# Test Python script for terraform_demo_pipeline_repo
+# Author: LukasGibb
+# Project URL name: terraform-demo-pipeline-repo
+# Description: Awesome terraform_demo_pipeline_repo created by LukasGibb
 
 # Some python code
